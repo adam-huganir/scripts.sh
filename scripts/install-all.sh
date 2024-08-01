@@ -29,6 +29,8 @@ yq          mikefarah/yq         github      yq_linux_amd64                     
 gh          cli/cli              github      gh_VERSION_linux_amd64.tar.gz              gh_*_linux_amd64/bin/gh     2
 helm        get.helm.sh          url         helm-vVERSION-linux-amd64.tar.gz           linux-amd64/helm            1
 jsonnet     google/go-jsonnet    github      go-jsonnet_VERSION_Linux_x86_64.tar.gz     jsonnet                     0
+syft        anchore/syft         github      syft_VERSION_linux_amd64.tar.gz            syft                        0
+grype       anchore/grype         github     grype_VERSION_linux_amd64.tar.gz           grype                       0
 CSV
 
 
